@@ -3,3 +3,4 @@ backend/node_modules
 web/.env
 .prettierrc
 .vscode/settings.json
+backend/uploads/*
